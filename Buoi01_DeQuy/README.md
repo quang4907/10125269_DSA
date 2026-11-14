@@ -1,12 +1,4 @@
-# Buổi 01 – Đệ quy
 
-Họ tên: Giang Anh Quang · MSV: 10125269
-
-## Bài đã làm
-Bài 1, 2, 3, 4, 5, 6, 7, 8
-
-## Cách chạy
-cat << 'EOF' > Buoi01_DeQuy/README.md
 # Buổi 01 – Đệ quy
 
 Họ tên: Giang Anh Quang · MSV: 10125269
